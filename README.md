@@ -1,10 +1,10 @@
-# json-server-base
+# Base URL
 
-Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configurada, feita para ser usada no desenvolvimento das API's nos Capstones do Q2.
+url(https://api-hamburgueria.herokuapp.com/)
 
 ## Endpoints
 
-Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro, 2 endpoints que podem ser usados para login 1 para ver o menu e 1 para favoritos.
+Nessa API existem 3 endpoints que podem ser utilizados para cadastro, 2 endpoints que podem ser usados para login 1 para ver o menu e 1 para favoritos.
 
 ### Cadastro
 
@@ -13,9 +13,9 @@ POST /signup <br/>
 POST /users
 
 body {
-  email: "teste@gmail.com",
-  password: "123456Aa@",
-  age: 21,
+email: "teste@gmail.com",
+password: "123456Aa@",
+age: 21,
 }
 
 Qualquer um desses 3 endpoints irá cadastrar o usuário na lista de "Users", sendo que os campos obrigatórios são os de email e password.
@@ -27,8 +27,8 @@ POST /login <br/>
 POST /signin
 
 body {
-  email: "teste@gmail.com",
-  password: "123456Aa@"
+email: "teste@gmail.com",
+password: "123456Aa@"
 }
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
