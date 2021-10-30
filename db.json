@@ -6,6 +6,95 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@gmail.com",
+      "password": "$2a$10$nEbaUYu2Vtt1KAvLGM3OMuO7roVsmvZTmvfaJkkjMKv/BNToLM.ZK",
+      "name": "teste",
+      "age": 21,
+      "id": 2
+    }
+  ],
+  "menu": [
+    {
+      "name": "Hamburguer",
+      "userId": "2",
+      "id": 1,
+      "price": 14
+    },
+    {
+      "name": "x-burguer",
+      "userId": "2",
+      "id": 2,
+      "price": 16
+    },
+    {
+      "name": "big kenzie",
+      "userId": "2",
+      "id": 3,
+      "price": 18
+    },
+    {
+      "name": "combo kenzie",
+      "userId": "2",
+      "id": 4,
+      "price": 26
+    },
+    {
+      "name": "fanta guaraná",
+      "userId": "2",
+      "id": 5,
+      "price": 5
+    },
+    {
+      "name": "coca cola",
+      "userId": "2",
+      "id": 6,
+      "price": 7
+    },
+    {
+      "name": "McShake ovomaltine",
+      "userId": "2",
+      "id": 7,
+      "price": 10
+    },
+    {
+      "name": "sandei",
+      "userId": "2",
+      "id": 8,
+      "price": 7
+    }
+  ],
+  "favorites": [
+    {
+      "name": "x-tudo",
+      "price": 25,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "name": "hamburguer",
+      "price": 15,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "name": "hamburguer",
+      "price": 15,
+      "userId": "2",
+      "id": 3
+    },
+    {
+      "name": "soda",
+      "price": 5,
+      "userId": "2",
+      "id": 4
+    },
+    {
+      "name": "sandie",
+      "price": 7,
+      "userId": "2",
+      "id": 5
     }
   ]
 }
