@@ -4,7 +4,7 @@ url(https://api-hamburgueria.herokuapp.com/)
 
 ## Endpoints
 
-Nessa API existem 3 endpoints que podem ser utilizados para cadastro, 2 endpoints que podem ser usados para login 1 para ver os favoritos e 1 salvar o carrinho do usuário.
+Nessa API existem 3 endpoints que podem ser utilizados para cadastro, 2 endpoints que podem ser usados para login 1 para ver os favoritos e 1 para salvar o carrinho do usuário.
 
 ### Cadastro
 
