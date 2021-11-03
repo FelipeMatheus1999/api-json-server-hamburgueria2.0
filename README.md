@@ -41,7 +41,7 @@ Qualquer pessoa tem acesso ao menu, é preciso estar logado para ler.
 
 body: null, Authorization: "Bearer + token"
 
-### favorites
+### z
 
 GET /favorites
 
