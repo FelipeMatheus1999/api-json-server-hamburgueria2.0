@@ -46,7 +46,7 @@ Qualquer pessoa tem acesso aos favoritos, não é preciso estar logado para ler.
 
 GET users/userId/cart
 
-body: null
+body: null <br>
 Authorization: true
 
 POST users/userId/cart
@@ -70,7 +70,7 @@ Authorization: true
 
 REMOVE /cart/itemId
 
-body: null
+body: null <br>
 Authorization: true
 
 Somente o usuário poder ler os itens que tem no carrinho e ele precisa estar logado para escrever o item
