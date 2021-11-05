@@ -55,7 +55,6 @@
     "price": 14,
     "category": "Sanduíches",
     "number": 0,
-    "userId": "2"
   },
   {
     "id": 2,
@@ -64,7 +63,6 @@
     "price": 16,
     "category": "Sanduíches",
     "number": 0,
-    "userId": "2"
   },
   {
     "id": 3,
@@ -73,7 +71,6 @@
     "price": 18,
     "category": "Sanduíches",
     "number": 0,
-    "userId": "2"
   },
   {
     "id": 4,
@@ -82,7 +79,6 @@
     "price": 28,
     "category": "Combos",
     "number": 0,
-    "userId": "2"
   },
   {
     "id": 5,
@@ -91,7 +87,6 @@
     "price": 5,
     "category": "Bebidas",
     "number": 0,
-    "userId": "2"
   },
   {
     "id": 6,
@@ -100,7 +95,6 @@
     "price": 7,
     "category": "Bebidas",
     "number": 0,
-    "userId": "2"
   },
   {
     "id": 7,
@@ -109,7 +103,6 @@
     "price": 10,
     "category": "Sobremesas",
     "number": 0,
-    "userId": "2"
   },
   {
     "id": 8,
@@ -118,7 +111,6 @@
     "price": 10,
     "category": "Sobremesas",
     "number": 0,
-    "userId": "2"
   }
 ]
 }
