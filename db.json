@@ -48,77 +48,69 @@
     }
   ],
   "cart": [
-  {
-    "id": 1,
-    "name": "Hamburger",
-    "image": "/static/media/202109090436_skn5yx754p 1.2ac4b847.png",
-    "price": 14,
-    "category": "Sanduíches",
-    "number": 0,
-    "userId": "2"
-  },
-  {
-    "id": 2,
-    "name": "X-Kenzie",
-    "image": "/static/media/202109200440_8fcy91zr6le 1.952a00e7.png",
-    "price": 16,
-    "category": "Sanduíches",
-    "number": 0,
-    "userId": "2"
-  },
-  {
-    "id": 3,
-    "name": "Big Kenzie",
-    "image": "/static/media/202109200440_749eet5vy86 1.78d1ef51.png",
-    "price": 18,
-    "category": "Sanduíches",
-    "number": 0,
-    "userId": "2"
-  },
-  {
-    "id": 4,
-    "name": "Combo Kenzie",
-    "image": "/static/media/202110050424_xijoowz172 1.c2c00f05.png",
-    "price": 28,
-    "category": "Combos",
-    "number": 0,
-    "userId": "2"
-  },
-  {
-    "id": 5,
-    "name": "Fanta Laranja",
-    "image": "/static/media/202108180426_tbwjnwcd1zq 1.01f86a96.png",
-    "price": 5,
-    "category": "Bebidas",
-    "number": 0,
-    "userId": "2"
-  },
-  {
-    "id": 6,
-    "name": "Coca-Cola",
-    "image": "/static/media/202108180426_861zezb4bh 1.fc2e662e.png",
-    "price": 7,
-    "category": "Bebidas",
-    "number": 0,
-    "userId": "2"
-  },
-  {
-    "id": 7,
-    "name": "McShake OvoMaltine",
-    "image": "/static/media/202108250455_4498m9wq98e 1.56510526.png",
-    "price": 10,
-    "category": "Sobremesas",
-    "number": 0,
-    "userId": "2"
-  },
-  {
-    "id": 8,
-    "name": "Sundae",
-    "image": "/static/media/202110110503_g22mtz565td 1.e2427ce0.png",
-    "price": 10,
-    "category": "Sobremesas",
-    "number": 0,
-    "userId": "2"
-  }
-]
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "image": "/static/media/202109090436_skn5yx754p 1.2ac4b847.png",
+      "price": 14,
+      "category": "Sanduíches",
+      "number": 0
+    },
+    {
+      "id": 2,
+      "name": "X-Kenzie",
+      "image": "/static/media/202109200440_8fcy91zr6le 1.952a00e7.png",
+      "price": 16,
+      "category": "Sanduíches",
+      "number": 0
+    },
+    {
+      "id": 3,
+      "name": "Big Kenzie",
+      "image": "/static/media/202109200440_749eet5vy86 1.78d1ef51.png",
+      "price": 18,
+      "category": "Sanduíches",
+      "number": 0
+    },
+    {
+      "id": 4,
+      "name": "Combo Kenzie",
+      "image": "/static/media/202110050424_xijoowz172 1.c2c00f05.png",
+      "price": 28,
+      "category": "Combos",
+      "number": 0
+    },
+    {
+      "id": 5,
+      "name": "Fanta Laranja",
+      "image": "/static/media/202108180426_tbwjnwcd1zq 1.01f86a96.png",
+      "price": 5,
+      "category": "Bebidas",
+      "number": 0
+    },
+    {
+      "id": 6,
+      "name": "Coca-Cola",
+      "image": "/static/media/202108180426_861zezb4bh 1.fc2e662e.png",
+      "price": 7,
+      "category": "Bebidas",
+      "number": 0
+    },
+    {
+      "id": 7,
+      "name": "McShake OvoMaltine",
+      "image": "/static/media/202108250455_4498m9wq98e 1.56510526.png",
+      "price": 10,
+      "category": "Sobremesas",
+      "number": 0
+    },
+    {
+      "id": 8,
+      "name": "Sundae",
+      "image": "/static/media/202110110503_g22mtz565td 1.e2427ce0.png",
+      "price": 10,
+      "category": "Sobremesas",
+      "number": 0
+    }
+  ]
 }
